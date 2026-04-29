@@ -195,6 +195,7 @@ Uso IA como ferramenta de produtividade (ex: Claude Code), **sem comprometer qua
 - D1
 - RDS
 - Supabase
+- Outros
 
 ### 🎨 Front-end
 - React, Remix, Next.js, Astro
