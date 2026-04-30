@@ -96,6 +96,14 @@ Uso IA como ferramenta de produtividade (ex: Claude Code), **sem comprometer qua
 />
 <img 
     align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+/>
+<img 
+    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
@@ -108,7 +116,8 @@ Uso IA como ferramenta de produtividade (ex: Claude Code), **sem comprometer qua
 - Go
 - Java
 - Python
-- PHP
+- PHP e Ruby (Experiência com frameworks como Laravel e Rails. Mas sem interesse em novos projetos nessas linguagens, disponível apenas para migração de stack.)
+- SQL
 
 ### 🏗️ Arquitetura
 - APIs REST & GraphQL  
