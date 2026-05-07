@@ -1,6 +1,6 @@
 # 👨‍💻 Ilton Seixas
 
-## Software Architect & Senior Full Stack Engineer  
+## Software Architect & Full Stack Engineer  
 ### Go • Rust • Java • TypeScript • Distributed Systems • Cloud Native • Edge Computing
 
 Construindo sistemas distribuídos escaláveis, resilientes e orientados a performance há mais de 10 anos.
