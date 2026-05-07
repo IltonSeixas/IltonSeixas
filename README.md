@@ -1,7 +1,7 @@
 # 👨‍💻 Ilton Seixas
 
 ## Software Architect & Senior Full Stack Engineer  
-### Distributed Systems • Cloud Native • Edge Computing • High Performance Applications
+### Go • Rust • Java • TypeScript • Distributed Systems • Cloud Native • Edge Computing
 
 Construindo sistemas distribuídos escaláveis, resilientes e orientados a performance há mais de 10 anos.
 
@@ -38,50 +38,39 @@ Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e 
 ## 🧩 Core Languages
 
 <p align="left">
-  <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Go" title="Go" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Rust" title="Rust" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-  <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Go" title="Go" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="Rust" title="Rust" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+  <img alt="Java" title="Java" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
-
-### TypeScript & JavaScript
-Desenvolvimento full stack moderno com Node.js, Bun e runtimes edge, construindo aplicações distribuídas com foco em performance, SSR, streaming e baixa latência.
 
 ### Go
-Construção de serviços concorrentes, microsserviços escaláveis e aplicações orientadas a throughput, eficiência operacional e resiliência.
+Construção de serviços concorrentes, microsserviços escaláveis e sistemas orientados a alta eficiência operacional.
 
 ### Rust
-Desenvolvimento de componentes críticos de alta performance com segurança de memória, previsibilidade e foco em eficiência extrema.
+Desenvolvimento de componentes críticos orientados a alta performance, segurança de memória e baixa latência.
 
 ### Java
-Aplicações robustas e seguras utilizando padrões consolidados de arquitetura, forte tipagem e foco em estabilidade de longo prazo.
+Aplicações robustas e seguras utilizando padrões consolidados de arquitetura para ambientes de alta confiabilidade.
+
+### TypeScript
+Desenvolvimento full stack moderno utilizando Node.js, Bun e runtimes edge para aplicações distribuídas e APIs de alta performance.
 
 ---
 
-## ⚡ Secondary Technologies
+## 🌐 Front-end
 
 <p align="left">
-  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="PHP" title="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img alt="Ruby" title="Ruby" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Angular" title="Angular" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </p>
-
-### Python
-Automação, integrações, tooling e processamento de dados.
-
-### PHP & Ruby
-Experiência em sistemas legados utilizando Laravel e Ruby on Rails, atuando principalmente em modernização arquitetural e migração para stacks mais performáticas e escaláveis.
-
----
-
-# 🎨 Front-end
 
 React, Remix, Astro, Angular e Next.js, com foco em SSR, streaming, acessibilidade e performance.
 
 ---
 
-# 🗄️ Dados & Performance
+## 🗄️ Dados & Performance
 
 <p align="left">
   <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -90,7 +79,7 @@ React, Remix, Astro, Angular e Next.js, com foco em SSR, streaming, acessibilida
   <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </p>
 
-Experiência com PostgreSQL, MySQL, Redis e MongoDB, atuando em modelagem orientada a escala, otimização de queries, caching e redução de latência.
+Experiência com PostgreSQL, MySQL, Redis e MongoDB, atuando em modelagem orientada a escala, caching, otimização de queries e redução de latência.
 
 ---
 
@@ -114,6 +103,16 @@ Atuação em containers, CI/CD, infraestrutura como código, observabilidade e e
 Segurança aplicada como parte da arquitetura e não como etapa posterior.
 
 Experiência com secure by design, OWASP Top 10, hardening de aplicações, segurança de APIs e estratégias voltadas à redução de superfície de ataque em sistemas distribuídos.
+
+---
+
+# 🧩 Outras Tecnologias
+
+### Python
+Utilizado em automações, integrações e processamento de dados.
+
+### PHP & Ruby
+Experiência com Laravel e Ruby on Rails atuando principalmente em modernização de sistemas legados e migração de stacks para arquiteturas mais escaláveis e performáticas.
 
 ---
 
