@@ -62,11 +62,13 @@ Desenvolvimento full stack moderno utilizando Node.js, Bun e runtimes edge para 
 
 <p align="left">
   <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img alt="Angular" title="Angular" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img alt="Astro" title="Astro" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
+  <img alt="Remix" title="Remix" width="36px" src="https://cdn.simpleicons.org/remix" />
+  <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </p>
 
-React, Remix, Astro, Angular e Next.js, com foco em SSR, streaming, acessibilidade e performance.
+React, Angular, Astro, Remix, e Next.js, com foco em SSR, streaming, acessibilidade e performance.
 
 ---
 
