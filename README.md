@@ -1,292 +1,251 @@
-# :technologist: Ilton Seixas
+# 👨‍💻 Ilton Seixas
 
-**Arquiteto e Engenheiro de Software Full Stack | Go · Rust · Java · TypeScript · Cloud & Edge**
+## Software Architect & Senior Full Stack Engineer  
+### Distributed Systems • Cloud Native • Edge Computing • High Performance Applications
 
-Construo sistemas web robustos, escaláveis e de alto desempenho — do front-end à infraestrutura.
+Construindo sistemas distribuídos escaláveis, resilientes e orientados a performance há mais de 10 anos.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor full stack com mais de **10 anos de experiência**, atuando desde 2014 como profissional independente, entregando soluções completas para clientes de diversos segmentos.
+Sou arquiteto e engenheiro de software com foco em sistemas distribuídos de alta complexidade, atuando no desenho e construção de aplicações orientadas a:
 
-Tenho forte atuação em:
+- baixa latência
+- escalabilidade horizontal
+- resiliência em produção
+- eficiência operacional
+- evolução sustentável de longo prazo
 
-- Arquitetura de software
-- Cloud & Edge Computing
-- Performance e escalabilidade
-- Segurança de aplicações
+Minha experiência envolve desde arquitetura de software até infraestrutura cloud-native e edge-first, sempre considerando trade-offs entre:
 
-Meu foco é construir sistemas **bem estruturados, seguros e preparados para crescer**.
+- consistência
+- throughput
+- custo operacional
+- complexidade de manutenção
+- performance em escala
 
----
-
-## 🧠 Filosofia de Engenharia
-
-Trabalho orientado por boas práticas consolidadas:
-
-- Clean Architecture  
-- Domain-Driven Design (DDD)  
-- Test-Driven Development (TDD)  
-- Design Patterns  
-- OWASP Top 10  
-
-Uso IA como ferramenta de produtividade (ex: Claude Code), **sem comprometer qualidade, revisão e segurança**.
+Tenho forte atuação em ambientes críticos, com foco em confiabilidade, observabilidade, segurança e engenharia orientada à qualidade.
 
 ---
 
-## ⚙️ Stack Principal
+# 🧠 Filosofia de Engenharia
 
-### 🧩 Linguagens
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Rust" 
-    title="Rust"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ruby" 
-    title="Ruby"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<br>
-- TypeScript/JavaScript
-- Rust
-- Go
-- Java
-- Python
-- PHP e Ruby (Experiência com frameworks como Laravel e Rails. Mas sem interesse em novos projetos nessas linguagens, disponível apenas para migração de stack.)
-- SQL
+Minha abordagem é fundamentada em princípios sólidos de engenharia de software:
 
-### 🏗️ Arquitetura
-- APIs REST & GraphQL  
-- Microsserviços  
-- Event-driven systems  
-- Serverless & Edge computing  
+- Clean Architecture
+- SOLID
+- Domain-Driven Design (DDD)
+- Separation of Concerns
+- Test-Driven Development (TDD)
+- Design orientado à manutenibilidade
+- Revisão de código focada em qualidade
+- Secure by Design
+- OWASP Top 10
 
-### ☁️ Cloud & Infra
-<img 
-    align="left" 
-    alt="Cloudflare" 
-    title="Cloudflare"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<br>
-- Cloudflare (Workers, R2, KV, D1, Durable Objects etc)
-- AWS (EC2, S3, RDS, Lambda, ECS etc)
-- Oracle Cloud (OCI)
+Acredito que software de qualidade precisa ser:
 
-### 🗄️ Banco de Dados
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Redis" 
-    title="Redis"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Supabase" 
-    title="Supabase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
-/>
-<br>
+- escalável
+- previsível
+- observável
+- resiliente
+- simples de evoluir
+- seguro desde a arquitetura
+
+---
+
+# ⚙️ Stack Principal
+
+## 🧩 Linguagens
+
+<p align="left">
+  <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Go" title="Go" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="Rust" title="Rust" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+  <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
+
+### TypeScript & JavaScript
+- Desenvolvimento full stack moderno
+- Node.js
+- Bun
+- Edge runtimes
+- APIs de alta performance
+
+### Go
+- Serviços concorrentes
+- Microsserviços escaláveis
+- Processamento de alta eficiência
+
+### Rust
+- Sistemas de alta performance
+- Segurança de memória
+- Componentes críticos orientados a baixa latência
+
+### Java
+- Aplicações corporativas robustas
+- Arquiteturas consolidadas
+- Segurança e estabilidade
+
+### Python
+- Automação
+- Integrações
+- Processamento de dados
+
+### PHP & Ruby
+Experiência em modernização e migração de sistemas legados utilizando:
+
+- Laravel
+- Ruby on Rails
+
+---
+
+# 🏗️ Arquitetura & Engenharia
+
+- Sistemas distribuídos
+- Microsserviços
+- Arquiteturas orientadas a eventos
+- APIs REST e GraphQL
+- Event-driven systems
+- Arquiteturas cloud-native
+- Edge-first architectures
+- Resiliência e tolerância a falhas
+- Estratégias de observabilidade
+- Modelagem orientada a domínio
+- Design orientado à escalabilidade
+
+---
+
+# ☁️ Cloud & Infraestrutura
+
+<p align="left">
+  <img alt="Cloudflare" title="Cloudflare" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
+  <img alt="AWS" title="AWS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Oracle" title="Oracle Cloud" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</p>
+
+## Cloudflare
+- Workers
+- Durable Objects
+- R2
+- KV
+- D1
+- Edge computing distribuído globalmente
+
+## AWS
+- EC2
+- S3
+- RDS
+- Lambda
+- ECS/Fargate
+- CloudWatch
+
+## OCI
+- Oracle Cloud Infrastructure
+
+## DevOps & Platform Engineering
+- Containers
+- Docker
+- CI/CD
+- Infraestrutura como código (IaC)
+- Monitoramento
+- Logging
+- Observabilidade
+
+---
+
+# 🗄️ Dados & Performance
+
+<p align="left">
+  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Redis" title="Redis" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+
 - PostgreSQL
 - MySQL
 - Redis
 - MongoDB
-- D1
-- RDS
-- Supabase
-- Outros
 
-### 🎨 Front-end
-- React, Remix, Next.js, Astro
-- Tailwind CSS
-- HTML5, CSS3
-- Acessibilidade (a11y) e UX
+Especialidades:
 
-### 🔧 DevOps
-- Docker
-- CI/CD
-- Infraestrutura como código (IaC)
-- Observabilidade e logging
+- Modelagem orientada a escala
+- Otimização de queries
+- Estratégias de caching
+- Redução de latência
+- Throughput optimization
+- Consistência e disponibilidade
 
 ---
 
-## 🧪 Diferenciais
+# 🎨 Front-end
 
-- Visão **full stack real** (do código à produção)
-- Forte experiência com **Cloudflare & Edge Computing**
-- Foco em **performance e baixa latência**
-- Experiência prática com clientes reais (não só projetos acadêmicos)
-- Mais de **170 cursos concluídos**
-- Uso estratégico de IA no desenvolvimento
+- React
+- Remix
+- Astro
+- Angular
+- Next.js
 
----
+Foco em:
 
-## 🏢 Experiência
-
-**Arkana Studios — Desenvolvedor Full Stack**   
-📅 2014 — 2026
-
-Atuação completa em:
-
-- Desenvolvimento de aplicações web end-to-end  
-- Arquitetura e infraestrutura em cloud  
-- APIs, microsserviços e sistemas distribuídos  
-- Segurança, monitoramento e hardening  
-- Modelagem de dados e otimização de performance  
+- SSR
+- Streaming
+- Performance
+- Acessibilidade (a11y)
+- Experiência do usuário
+- Arquiteturas frontend escaláveis
 
 ---
 
-## 🎓 Formação
+# 🔐 Segurança
 
-**Bacharelado em Ciência da Computação**
+Segurança tratada como requisito fundamental da arquitetura:
 
-Base sólida em:
-
-- Algoritmos e estruturas de dados  
-- Sistemas operacionais  
-- Redes  
-- Engenharia de software  
-- Bancos de dados  
+- Secure by Design
+- OWASP Top 10
+- Hardening de aplicações
+- Segurança de APIs
+- Validação e isolamento de dados
+- Controle de acesso
+- Proteção contra vulnerabilidades comuns
 
 ---
 
-## 📚 Aprendizado Contínuo
+# 📚 Formação & Aprendizado Contínuo
 
-+170 cursos com foco em:
+🎓 Bacharelado em Ciência da Computação
 
-- Arquitetura de software
-- Sistemas distribuídos
-- Segurança (OWASP)
+Mais de **170 cursos concluídos** nas áreas de:
+
+- Engenharia de software
+- Arquitetura de sistemas
 - Cloud computing
-- DevOps e automação
+- Segurança de aplicações
+- Sistemas distribuídos
+- DevOps
+- Performance e escalabilidade
 
 ---
 
-## 🌍 Idiomas
+# 🌍 Idiomas
 
-- Português — Nativo  
-- Inglês — Intermediário (leitura técnica)
-
----
-
-## 📫 Contato
-
-- 🌐 https://curriculo.iltonseixas.com  
-- 💼 https://linkedin.com/in/iltonseixas  
-- 📧 contato@iltonseixas.com  
+- Português — Nativo
+- Inglês — Leitura técnica avançada
 
 ---
 
-## ⚡ Frase que resume meu trabalho
+# 📫 Contato
 
-> “Não basta funcionar — tem que escalar, ser seguro e continuar funcionando sob pressão.”
+- 🌐 https://curriculo.iltonseixas.com
+- 💼 https://linkedin.com/in/iltonseixas
+- 📧 contato@iltonseixas.com
+
+---
+
+# ⚡ Engenharia acima de hype
+
+> “Não basta funcionar. Sistemas precisam escalar, permanecer resilientes sob pressão e continuar evoluindo sem colapsar operacionalmente.”
