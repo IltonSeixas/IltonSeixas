@@ -35,7 +35,7 @@ Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e 
 
 # ⚙️ Stack Principal
 
-## 🧩 Linguagens
+## 🧩 Core Languages
 
 <p align="left">
   <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -43,21 +43,54 @@ Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e 
   <img alt="Go" title="Go" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="Rust" title="Rust" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
   <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
-### Core Stack
-- TypeScript & JavaScript (Node.js, Bun e runtimes edge)
-- Go para serviços concorrentes e escaláveis
-- Rust para componentes críticos de alta performance
-- Java para aplicações robustas e seguras
-- Python para automação, integrações e processamento de dados
+### TypeScript & JavaScript
+Desenvolvimento full stack moderno com Node.js, Bun e runtimes edge, construindo aplicações distribuídas com foco em performance, SSR, streaming e baixa latência.
 
-### Front-end
+### Go
+Construção de serviços concorrentes, microsserviços escaláveis e aplicações orientadas a throughput, eficiência operacional e resiliência.
+
+### Rust
+Desenvolvimento de componentes críticos de alta performance com segurança de memória, previsibilidade e foco em eficiência extrema.
+
+### Java
+Aplicações robustas e seguras utilizando padrões consolidados de arquitetura, forte tipagem e foco em estabilidade de longo prazo.
+
+---
+
+## ⚡ Secondary Technologies
+
+<p align="left">
+  <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="PHP" title="PHP" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="Ruby" title="Ruby" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+</p>
+
+### Python
+Automação, integrações, tooling e processamento de dados.
+
+### PHP & Ruby
+Experiência em sistemas legados utilizando Laravel e Ruby on Rails, atuando principalmente em modernização arquitetural e migração para stacks mais performáticas e escaláveis.
+
+---
+
+# 🎨 Front-end
+
 React, Remix, Astro, Angular e Next.js, com foco em SSR, streaming, acessibilidade e performance.
 
-### Dados
-PostgreSQL, MySQL, Redis e MongoDB, com experiência em modelagem orientada a escala, caching e otimização de queries.
+---
+
+# 🗄️ Dados & Performance
+
+<p align="left">
+  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="Redis" title="Redis" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
+
+Experiência com PostgreSQL, MySQL, Redis e MongoDB, atuando em modelagem orientada a escala, otimização de queries, caching e redução de latência.
 
 ---
 
