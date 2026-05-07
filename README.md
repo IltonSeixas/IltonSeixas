@@ -9,48 +9,27 @@ Construindo sistemas distribuídos escaláveis, resilientes e orientados a perfo
 
 ## 🚀 Sobre mim
 
-Sou arquiteto e engenheiro de software com foco em sistemas distribuídos de alta complexidade, atuando no desenho e construção de aplicações orientadas a:
+Arquiteto e engenheiro de software especializado em sistemas distribuídos de alta complexidade, com foco em baixa latência, escalabilidade horizontal e resiliência em produção.
 
-- baixa latência
-- escalabilidade horizontal
-- resiliência em produção
-- eficiência operacional
-- evolução sustentável de longo prazo
+Atuo no desenho de arquiteturas, definição de tecnologias e construção de aplicações cloud-native e edge-first, sempre considerando trade-offs entre consistência, throughput, custo operacional e evolução sustentável de longo prazo.
 
-Minha experiência envolve desde arquitetura de software até infraestrutura cloud-native e edge-first, sempre considerando trade-offs entre:
-
-- consistência
-- throughput
-- custo operacional
-- complexidade de manutenção
-- performance em escala
-
-Tenho forte atuação em ambientes críticos, com foco em confiabilidade, observabilidade, segurança e engenharia orientada à qualidade.
+Minha abordagem é fundamentada em princípios sólidos de engenharia de software, priorizando simplicidade arquitetural, manutenibilidade, observabilidade e confiabilidade em escala.
 
 ---
 
-# 🧠 Filosofia de Engenharia
+# 🧠 Engenharia & Arquitetura
 
-Minha abordagem é fundamentada em princípios sólidos de engenharia de software:
+Experiência sólida em:
 
-- Clean Architecture
-- SOLID
-- Domain-Driven Design (DDD)
-- Separation of Concerns
-- Test-Driven Development (TDD)
-- Design orientado à manutenibilidade
-- Revisão de código focada em qualidade
-- Secure by Design
-- OWASP Top 10
+- sistemas distribuídos e microsserviços
+- arquiteturas orientadas a eventos
+- APIs REST e GraphQL
+- arquiteturas cloud-native e edge computing
+- observabilidade, resiliência e tolerância a falhas
+- modelagem orientada a domínio
+- engenharia orientada a testes
 
-Acredito que software de qualidade precisa ser:
-
-- escalável
-- previsível
-- observável
-- resiliente
-- simples de evoluir
-- seguro desde a arquitetura
+Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e secure by design, com segurança tratada como requisito transversal em toda a stack.
 
 ---
 
@@ -67,54 +46,18 @@ Acredito que software de qualidade precisa ser:
   <img alt="Python" title="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
-### TypeScript & JavaScript
-- Desenvolvimento full stack moderno
-- Node.js
-- Bun
-- Edge runtimes
-- APIs de alta performance
+### Core Stack
+- TypeScript & JavaScript (Node.js, Bun e runtimes edge)
+- Go para serviços concorrentes e escaláveis
+- Rust para componentes críticos de alta performance
+- Java para aplicações robustas e seguras
+- Python para automação, integrações e processamento de dados
 
-### Go
-- Serviços concorrentes
-- Microsserviços escaláveis
-- Processamento de alta eficiência
+### Front-end
+React, Remix, Astro, Angular e Next.js, com foco em SSR, streaming, acessibilidade e performance.
 
-### Rust
-- Sistemas de alta performance
-- Segurança de memória
-- Componentes críticos orientados a baixa latência
-
-### Java
-- Aplicações corporativas robustas
-- Arquiteturas consolidadas
-- Segurança e estabilidade
-
-### Python
-- Automação
-- Integrações
-- Processamento de dados
-
-### PHP & Ruby
-Experiência em modernização e migração de sistemas legados utilizando:
-
-- Laravel
-- Ruby on Rails
-
----
-
-# 🏗️ Arquitetura & Engenharia
-
-- Sistemas distribuídos
-- Microsserviços
-- Arquiteturas orientadas a eventos
-- APIs REST e GraphQL
-- Event-driven systems
-- Arquiteturas cloud-native
-- Edge-first architectures
-- Resiliência e tolerância a falhas
-- Estratégias de observabilidade
-- Modelagem orientada a domínio
-- Design orientado à escalabilidade
+### Dados
+PostgreSQL, MySQL, Redis e MongoDB, com experiência em modelagem orientada a escala, caching e otimização de queries.
 
 ---
 
@@ -127,91 +70,17 @@ Experiência em modernização e migração de sistemas legados utilizando:
   <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
-## Cloudflare
-- Workers
-- Durable Objects
-- R2
-- KV
-- D1
-- Edge computing distribuído globalmente
+Experiência com arquiteturas distribuídas globalmente utilizando Cloudflare Workers, Durable Objects, R2, KV e D1, além de infraestrutura em AWS e OCI.
 
-## AWS
-- EC2
-- S3
-- RDS
-- Lambda
-- ECS/Fargate
-- CloudWatch
-
-## OCI
-- Oracle Cloud Infrastructure
-
-## DevOps & Platform Engineering
-- Containers
-- Docker
-- CI/CD
-- Infraestrutura como código (IaC)
-- Monitoramento
-- Logging
-- Observabilidade
-
----
-
-# 🗄️ Dados & Performance
-
-<p align="left">
-  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Redis" title="Redis" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</p>
-
-- PostgreSQL
-- MySQL
-- Redis
-- MongoDB
-
-Especialidades:
-
-- Modelagem orientada a escala
-- Otimização de queries
-- Estratégias de caching
-- Redução de latência
-- Throughput optimization
-- Consistência e disponibilidade
-
----
-
-# 🎨 Front-end
-
-- React
-- Remix
-- Astro
-- Angular
-- Next.js
-
-Foco em:
-
-- SSR
-- Streaming
-- Performance
-- Acessibilidade (a11y)
-- Experiência do usuário
-- Arquiteturas frontend escaláveis
+Atuação em containers, CI/CD, infraestrutura como código, observabilidade e engenharia orientada à eficiência operacional.
 
 ---
 
 # 🔐 Segurança
 
-Segurança tratada como requisito fundamental da arquitetura:
+Segurança aplicada como parte da arquitetura e não como etapa posterior.
 
-- Secure by Design
-- OWASP Top 10
-- Hardening de aplicações
-- Segurança de APIs
-- Validação e isolamento de dados
-- Controle de acesso
-- Proteção contra vulnerabilidades comuns
+Experiência com secure by design, OWASP Top 10, hardening de aplicações, segurança de APIs e estratégias voltadas à redução de superfície de ataque em sistemas distribuídos.
 
 ---
 
@@ -219,15 +88,7 @@ Segurança tratada como requisito fundamental da arquitetura:
 
 🎓 Bacharelado em Ciência da Computação
 
-Mais de **170 cursos concluídos** nas áreas de:
-
-- Engenharia de software
-- Arquitetura de sistemas
-- Cloud computing
-- Segurança de aplicações
-- Sistemas distribuídos
-- DevOps
-- Performance e escalabilidade
+Mais de 170 cursos concluídos nas áreas de engenharia de software, arquitetura de sistemas, cloud computing, segurança de aplicações e sistemas distribuídos.
 
 ---
 
