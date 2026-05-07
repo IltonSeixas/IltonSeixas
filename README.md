@@ -1,6 +1,6 @@
 # :technologist: Ilton Seixas
 
-**Desenvolvedor Full Stack • Arquiteto de Software • Cloud & Edge**
+**Arquiteto e Engenheiro de Software Full Stack | Go · Rust · Java · TypeScript · Cloud & Edge**
 
 Construo sistemas web robustos, escaláveis e de alto desempenho — do front-end à infraestrutura.
 
