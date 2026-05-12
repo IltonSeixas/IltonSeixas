@@ -2,7 +2,7 @@
 
 ## Software Architect • Distributed Systems & Cloud Native Engineer
 
-### Go • Rust • TypeScript • Cloud & Edge
+### Go • Rust • TypeScript • WASM • Cloud & Edge
 
 Building scalable, resilient, and high-performance distributed systems for over 10 years.
 
