@@ -56,9 +56,7 @@ Strong focus on long-term maintainability, operational efficiency, and sustainab
 ## 🧩 Core Languages
 
 <p align="left">
-  <img alt="Go" title="Go" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Rust" title="Rust" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts" />
 </p>
 
 ### Go
@@ -78,11 +76,7 @@ Modern backend and full stack development using Node.js, Bun, and edge runtimes 
 ## 🌐 Front-End
 
 <p align="left">
-  <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Angular" title="Angular" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img alt="Astro" title="Astro" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
-  <img alt="Remix" title="Remix" width="36px" src="https://cdn.simpleicons.org/remix" />
-  <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img src="https://skillicons.dev/icons?i=react,angular,astro,nextjs" />
 </p>
 
 Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, streaming, accessibility, and frontend performance optimization.
@@ -92,10 +86,7 @@ Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, stre
 ## 🗄️ Data & Performance
 
 <p align="left">
-  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MySQL" title="MySQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="Redis" title="Redis" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
 </p>
 
 Hands-on experience with PostgreSQL, MySQL, Redis, and MongoDB, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
@@ -105,10 +96,7 @@ Hands-on experience with PostgreSQL, MySQL, Redis, and MongoDB, focusing on scal
 # ☁️ Cloud & Infrastructure
 
 <p align="left">
-  <img alt="Cloudflare" title="Cloudflare" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
-  <img alt="AWS" title="AWS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img alt="Oracle" title="Oracle Cloud" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker" />
 </p>
 
 Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS and OCI.
@@ -147,5 +135,7 @@ Strong commitment to continuous learning across software engineering, distribute
 * 📧 [contato@iltonseixas.com](mailto:contato@iltonseixas.com)
 
 ---
+
+# ⚡ Engineering with Long-Term Thinking
 
 > “It’s not enough for systems to simply work. They must scale, remain resilient under pressure, and continue evolving without operational collapse.”
