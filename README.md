@@ -97,6 +97,7 @@ Hands-on experience with PostgreSQL, MySQL, Redis, and MongoDB, focusing on scal
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker" />
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle Cloud Infrastructure" />
 </p>
 
 Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS and OCI.
