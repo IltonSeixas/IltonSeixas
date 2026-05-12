@@ -1,7 +1,7 @@
 # 👨‍💻 Ilton Seixas
 
 ## Software Architect & Full Stack Engineer  
-### Go • Rust • Java • TypeScript • Distributed Systems • Cloud Native • Edge Computing
+### Go • Rust • TypeScript • Distributed Systems • Cloud Native • Edge Computing
 
 Construindo sistemas distribuídos escaláveis, resilientes e orientados a performance há mais de 10 anos.
 
@@ -40,7 +40,6 @@ Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e 
 <p align="left">
   <img alt="Go" title="Go" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img alt="Rust" title="Rust" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-  <img alt="Java" title="Java" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 
@@ -49,9 +48,6 @@ Construção de serviços concorrentes, microsserviços escaláveis e sistemas o
 
 ### Rust
 Desenvolvimento de componentes críticos orientados a alta performance, segurança de memória e baixa latência.
-
-### Java
-Aplicações robustas e seguras utilizando padrões consolidados de arquitetura para ambientes de alta confiabilidade.
 
 ### TypeScript
 Desenvolvimento full stack moderno utilizando Node.js, Bun e runtimes edge para aplicações distribuídas e APIs de alta performance.
