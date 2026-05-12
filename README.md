@@ -1,7 +1,8 @@
 # 👨‍💻 Ilton Seixas
 
-## Software Architect • Cloud Native & Distributed Systems Engineer  
-### Go • Rust • TypeScript • Distributed Systems • Cloud Native • Edge Computing
+## Software Architect • Distributed Systems & Cloud Native Engineer
+
+### Go • Rust • TypeScript • Cloud & Edge
 
 Building scalable, resilient, and high-performance distributed systems for over 10 years.
 
@@ -21,14 +22,14 @@ My engineering approach is grounded in solid software engineering principles, pr
 
 Strong experience with:
 
-- distributed systems and microservices
-- event-driven architectures
-- REST and GraphQL APIs
-- cloud-native and edge-first architectures
-- observability, resilience, and fault tolerance
-- domain-driven design
-- test-driven engineering
-- secure-by-design architectures
+* distributed systems and microservices
+* event-driven architectures
+* REST and GraphQL APIs
+* cloud-native and edge-first architectures
+* observability, resilience, and fault tolerance
+* domain-driven design
+* test-driven engineering
+* secure-by-design architectures
 
 Consistent application of practices such as Clean Architecture, SOLID, DDD, TDD, and security-first engineering principles across the entire stack.
 
@@ -38,13 +39,13 @@ Consistent application of practices such as Clean Architecture, SOLID, DDD, TDD,
 
 Designed and built systems focused on:
 
-- high-throughput APIs
-- low-latency architectures
-- globally distributed workloads
-- edge-native applications
-- resilient event-driven systems
-- scalable cloud-native services
-- operational reliability and observability
+* high-throughput APIs
+* low-latency architectures
+* globally distributed workloads
+* edge-native applications
+* resilient event-driven systems
+* scalable cloud-native services
+* operational reliability and observability
 
 Strong focus on long-term maintainability, operational efficiency, and sustainable architectural evolution.
 
@@ -56,17 +57,20 @@ Strong focus on long-term maintainability, operational efficiency, and sustainab
 
 <p align="left">
   <img alt="Go" title="Go" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img alt="Rust" title="Rust" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+  <img alt="Rust" title="Rust" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
   <img alt="TypeScript" title="TypeScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 
 ### Go
+
 Building highly concurrent services, scalable microservices, and systems optimized for operational efficiency.
 
 ### Rust
+
 Developing performance-critical components focused on memory safety, reliability, and low-latency execution.
 
 ### TypeScript
+
 Modern backend and full stack development using Node.js, Bun, and edge runtimes for distributed applications and high-performance APIs.
 
 ---
@@ -131,19 +135,17 @@ Strong commitment to continuous learning across software engineering, distribute
 
 # 🌍 Languages
 
-- Portuguese — Native
-- English — Technical and professional proficiency
+* Portuguese — Native
+* English — Technical and professional proficiency
 
 ---
 
 # 📫 Contact
 
-- 🌐 https://curriculo.iltonseixas.com
-- 💼 https://linkedin.com/in/iltonseixas
-- 📧 contato@iltonseixas.com
+* 🌐 [https://curriculo.iltonseixas.com](https://curriculo.iltonseixas.com)
+* 💼 [https://linkedin.com/in/iltonseixas](https://linkedin.com/in/iltonseixas)
+* 📧 [contato@iltonseixas.com](mailto:contato@iltonseixas.com)
 
 ---
-
-# ⚡ Engineering with Long-Term Thinking
 
 > “It’s not enough for systems to simply work. They must scale, remain resilient under pressure, and continue evolving without operational collapse.”
