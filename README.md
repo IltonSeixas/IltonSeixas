@@ -1,39 +1,56 @@
 # 👨‍💻 Ilton Seixas
 
-## Software Architect & Full Stack Engineer  
+## Software Architect • Cloud Native & Distributed Systems Engineer  
 ### Go • Rust • TypeScript • Distributed Systems • Cloud Native • Edge Computing
 
-Construindo sistemas distribuídos escaláveis, resilientes e orientados a performance há mais de 10 anos.
+Building scalable, resilient, and high-performance distributed systems for over 10 years.
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 About Me
 
-Arquiteto e engenheiro de software especializado em sistemas distribuídos de alta complexidade, com foco em baixa latência, escalabilidade horizontal e resiliência em produção.
+Software architect and engineer specialized in high-complexity distributed systems, with a strong focus on low latency, horizontal scalability, resilience, and operational efficiency.
 
-Atuo no desenho de arquiteturas, definição de tecnologias e construção de aplicações cloud-native e edge-first, sempre considerando trade-offs entre consistência, throughput, custo operacional e evolução sustentável de longo prazo.
+I work across system architecture, technology strategy, and cloud-native application development, designing solutions that balance consistency, throughput, operational cost, maintainability, and long-term sustainability.
 
-Minha abordagem é fundamentada em princípios sólidos de engenharia de software, priorizando simplicidade arquitetural, manutenibilidade, observabilidade e confiabilidade em escala.
-
----
-
-# 🧠 Engenharia & Arquitetura
-
-Experiência sólida em:
-
-- sistemas distribuídos e microsserviços
-- arquiteturas orientadas a eventos
-- APIs REST e GraphQL
-- arquiteturas cloud-native e edge computing
-- observabilidade, resiliência e tolerância a falhas
-- modelagem orientada a domínio
-- engenharia orientada a testes
-
-Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e secure by design, com segurança tratada como requisito transversal em toda a stack.
+My engineering approach is grounded in solid software engineering principles, prioritizing architectural simplicity, observability, reliability, and sustainable scalability.
 
 ---
 
-# ⚙️ Stack Principal
+# 🧠 Engineering & Architecture
+
+Strong experience with:
+
+- distributed systems and microservices
+- event-driven architectures
+- REST and GraphQL APIs
+- cloud-native and edge-first architectures
+- observability, resilience, and fault tolerance
+- domain-driven design
+- test-driven engineering
+- secure-by-design architectures
+
+Consistent application of practices such as Clean Architecture, SOLID, DDD, TDD, and security-first engineering principles across the entire stack.
+
+---
+
+# ⚡ Systems & Impact
+
+Designed and built systems focused on:
+
+- high-throughput APIs
+- low-latency architectures
+- globally distributed workloads
+- edge-native applications
+- resilient event-driven systems
+- scalable cloud-native services
+- operational reliability and observability
+
+Strong focus on long-term maintainability, operational efficiency, and sustainable architectural evolution.
+
+---
+
+# ⚙️ Primary Stack
 
 ## 🧩 Core Languages
 
@@ -44,17 +61,17 @@ Aplicação consistente de práticas como Clean Architecture, SOLID, DDD, TDD e 
 </p>
 
 ### Go
-Construção de serviços concorrentes, microsserviços escaláveis e sistemas orientados a alta eficiência operacional.
+Building highly concurrent services, scalable microservices, and systems optimized for operational efficiency.
 
 ### Rust
-Desenvolvimento de componentes críticos orientados a alta performance, segurança de memória e baixa latência.
+Developing performance-critical components focused on memory safety, reliability, and low-latency execution.
 
 ### TypeScript
-Desenvolvimento full stack moderno utilizando Node.js, Bun e runtimes edge para aplicações distribuídas e APIs de alta performance.
+Modern backend and full stack development using Node.js, Bun, and edge runtimes for distributed applications and high-performance APIs.
 
 ---
 
-## 🌐 Front-end
+## 🌐 Front-End
 
 <p align="left">
   <img alt="React" title="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -64,11 +81,11 @@ Desenvolvimento full stack moderno utilizando Node.js, Bun e runtimes edge para 
   <img alt="Next.js" title="Next.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </p>
 
-React, Angular, Astro, Remix, e Next.js, com foco em SSR, streaming, acessibilidade e performance.
+Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, streaming, accessibility, and frontend performance optimization.
 
 ---
 
-## 🗄️ Dados & Performance
+## 🗄️ Data & Performance
 
 <p align="left">
   <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -77,11 +94,11 @@ React, Angular, Astro, Remix, e Next.js, com foco em SSR, streaming, acessibilid
   <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </p>
 
-Experiência com PostgreSQL, MySQL, Redis e MongoDB, atuando em modelagem orientada a escala, caching, otimização de queries e redução de latência.
+Hands-on experience with PostgreSQL, MySQL, Redis, and MongoDB, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
 
 ---
 
-# ☁️ Cloud & Infraestrutura
+# ☁️ Cloud & Infrastructure
 
 <p align="left">
   <img alt="Cloudflare" title="Cloudflare" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
@@ -90,46 +107,46 @@ Experiência com PostgreSQL, MySQL, Redis e MongoDB, atuando em modelagem orient
   <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
-Experiência com arquiteturas distribuídas globalmente utilizando Cloudflare Workers, Durable Objects, R2, KV e D1, além de infraestrutura em AWS e OCI.
+Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS and OCI.
 
-Atuação em containers, CI/CD, infraestrutura como código, observabilidade e engenharia orientada à eficiência operacional.
-
----
-
-# 🔐 Segurança
-
-Segurança aplicada como parte da arquitetura e não como etapa posterior.
-
-Experiência com secure by design, OWASP Top 10, hardening de aplicações, segurança de APIs e estratégias voltadas à redução de superfície de ataque em sistemas distribuídos.
+Strong background in containers, CI/CD pipelines, Infrastructure as Code, observability, and operational efficiency engineering.
 
 ---
 
-# 🧩 Outras Tecnologias
+# 🔐 Security
+
+Security treated as an architectural principle rather than an afterthought.
+
+Experience with secure-by-design practices, OWASP Top 10, application hardening, API security, and attack surface reduction strategies for distributed systems.
+
+---
+
+# 🧩 Additional Technologies
 
 ### Python
-Utilizado em automações, integrações e processamento de dados.
+Used for automation, integrations, scripting, and data processing.
 
 ### PHP & Ruby
-Experiência com Laravel e Ruby on Rails atuando principalmente em modernização de sistemas legados e migração de stacks para arquiteturas mais escaláveis e performáticas.
+Experience with Laravel and Ruby on Rails, primarily focused on legacy system modernization and migration toward scalable, modern architectures.
 
 ---
 
-# 📚 Formação & Aprendizado Contínuo
+# 📚 Education & Continuous Learning
 
-🎓 Bacharelado em Ciência da Computação
+🎓 Bachelor's Degree in Computer Science
 
-Mais de 170 cursos concluídos nas áreas de engenharia de software, arquitetura de sistemas, cloud computing, segurança de aplicações e sistemas distribuídos.
-
----
-
-# 🌍 Idiomas
-
-- Português — Nativo
-- Inglês — Leitura técnica avançada
+Strong commitment to continuous learning across software engineering, distributed systems, cloud architecture, and application security.
 
 ---
 
-# 📫 Contato
+# 🌍 Languages
+
+- Portuguese — Native
+- English — Technical and professional proficiency
+
+---
+
+# 📫 Contact
 
 - 🌐 https://curriculo.iltonseixas.com
 - 💼 https://linkedin.com/in/iltonseixas
@@ -137,6 +154,6 @@ Mais de 170 cursos concluídos nas áreas de engenharia de software, arquitetura
 
 ---
 
-# ⚡ Engenharia acima de hype
+# ⚡ Engineering with Long-Term Thinking
 
-> “Não basta funcionar. Sistemas precisam escalar, permanecer resilientes sob pressão e continuar evoluindo sem colapsar operacionalmente.”
+> “It’s not enough for systems to simply work. They must scale, remain resilient under pressure, and continue evolving without operational collapse.”
