@@ -1,10 +1,10 @@
 # 👨‍💻 Ilton Seixas
 
-## Software Architect • Distributed Systems & Cloud Native Engineer
+## Software Architect • Distributed Systems Engineer
 
 ### Go • Rust • TypeScript • WASM • Cloud & Edge
 
-Building scalable, resilient, and high-performance distributed systems for over 10 years.
+Focused on distributed systems, edge runtimes, WebAssembly, and high-performance cloud-native architectures.
 
 ---
 
@@ -12,7 +12,7 @@ Building scalable, resilient, and high-performance distributed systems for over 
 
 Software architect and engineer specialized in high-complexity distributed systems, with a strong focus on low latency, horizontal scalability, resilience, and operational efficiency.
 
-I work across system architecture, technology strategy, and cloud-native application development, designing solutions that balance consistency, throughput, operational cost, maintainability, and long-term sustainability.
+I work across system architecture, technology strategy, and cloud-native, edge-first, and distributed application development, designing solutions that balance consistency, throughput, operational cost, maintainability, and long-term sustainability.
 
 My engineering approach is grounded in solid software engineering principles, prioritizing architectural simplicity, observability, reliability, and sustainable scalability.
 
@@ -22,6 +22,7 @@ My engineering approach is grounded in solid software engineering principles, pr
 
 Strong experience with:
 
+* WebAssembly (WASM) and edge runtime architectures
 * distributed systems and microservices
 * event-driven architectures
 * REST and GraphQL APIs
@@ -39,10 +40,10 @@ Consistent application of practices such as Clean Architecture, SOLID, DDD, TDD,
 
 Designed and built systems focused on:
 
+* WebAssembly-powered edge applications
 * high-throughput APIs
 * low-latency architectures
 * globally distributed workloads
-* edge-native applications
 * resilient event-driven systems
 * scalable cloud-native services
 * operational reliability and observability
