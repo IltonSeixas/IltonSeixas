@@ -130,9 +130,9 @@ Strong commitment to continuous learning across software engineering, distribute
 
 # 📫 Contact
 
-* 🌐 [https://curriculo.iltonseixas.com](https://curriculo.iltonseixas.com)
+* 🌐 [https://resume.iltonseixas.com/en](https://resume.iltonseixas.com/en)
 * 💼 [https://linkedin.com/in/iltonseixas](https://linkedin.com/in/iltonseixas)
-* 📧 [contato@iltonseixas.com](mailto:contato@iltonseixas.com)
+* 📧 [contact@iltonseixas.com](mailto:contact@iltonseixas.com)
 
 ---
 
