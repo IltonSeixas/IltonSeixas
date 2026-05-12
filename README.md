@@ -121,16 +121,6 @@ Experience with secure-by-design practices, OWASP Top 10, application hardening,
 
 ---
 
-# 🧩 Additional Technologies
-
-### Python
-Used for automation, integrations, scripting, and data processing.
-
-### PHP & Ruby
-Experience with Laravel and Ruby on Rails, primarily focused on legacy system modernization and migration toward scalable, modern architectures.
-
----
-
 # 📚 Education & Continuous Learning
 
 🎓 Bachelor's Degree in Computer Science
