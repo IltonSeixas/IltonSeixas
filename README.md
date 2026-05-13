@@ -1,4 +1,4 @@
-# 👨‍💻 Ilton Seixass
+# 👨‍💻 Ilton Seixas
 
 ## Software Architect • Distributed Systems Engineer
 
