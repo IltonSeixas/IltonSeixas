@@ -2,7 +2,7 @@
 
 ## Software Architect • Distributed Systems Engineer
 
-### Go • Rust • TypeScript • WASM • Cloud & Edge
+### Goa • Rust • TypeScript • WASM • Cloud & Edge
 
 Focused on distributed systems, edge runtimes, WebAssembly, and high-performance cloud-native architectures.
 
