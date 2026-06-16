@@ -2,7 +2,7 @@
 
 ## Software Architect • Distributed Systems Engineer
 
-### Go • Rust • TypeScript • WASM • Cloud & Edge
+### Go • Rust • Java • TypeScript • WASM • Cloud & Edge
 
 Focused on distributed systems, edge runtimes, WebAssembly, and high-performance cloud-native architectures.
 
@@ -57,7 +57,7 @@ Strong focus on long-term maintainability, operational efficiency, and sustainab
 ## 🧩 Core Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts" />
+  <img src="https://skillicons.dev/icons?i=go,rust,java,ts" />
 </p>
 
 ### Go
@@ -67,6 +67,10 @@ Building highly concurrent services, scalable microservices, and systems optimiz
 ### Rust
 
 Developing performance-critical components focused on memory safety, reliability, and low-latency execution.
+
+### Java
+
+Designing enterprise-grade backends, distributed systems, event-driven architectures, and high-throughput services with a focus on scalability, maintainability, and long-term reliability.
 
 ### TypeScript
 
