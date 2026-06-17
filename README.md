@@ -91,20 +91,20 @@ Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, stre
 ## 🗄️ Data & Performance
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka" />
 </p>
 
-Hands-on experience with PostgreSQL, MySQL, Redis, and MongoDB, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
+Hands-on experience with PostgreSQL, MySQL, D1, MongoDB, Redis, RabbitMQ and Kafka, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
 
 ---
 
 # ☁️ Cloud & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,docker,kubernetes" />
 </p>
 
-Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS and OCI.
+Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS, GCP and OCI.
 
 Strong background in containers, CI/CD pipelines, Infrastructure as Code, observability, and operational efficiency engineering.
 
