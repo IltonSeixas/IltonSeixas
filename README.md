@@ -118,7 +118,7 @@ Designing scalable data models, writing optimized queries, and managing data int
 Implementing low-latency caching layers with **Redis** and building flexible, efficient data-fetching layers using **GraphQL** to eliminate over-fetching and under-fetching.
 
 ### Message Brokers & Event Streaming
-Orchestrating asynchronous communication, event-driven architectures, and high-throughput data pipelines using **RabbitMQ** and **Apache Kafka** to guarantee decoupled services and strict data reliability.
+Orchestrating asynchronous communication, event-driven architectures, and high-throughput data pipelines. Experienced in managing workloads using traditional enterprise brokers like **RabbitMQ** and **Apache Kafka**, as well as building serverless, edge-native message queues with **Cloudflare Queues** to guarantee decoupled services and strict data reliability.
 
 ---
 
@@ -137,7 +137,7 @@ Deploying, securing, and scaling cloud-native applications across multi-cloud en
 ### DevOps, Automation & Observability
 * **Containerization & Orchestration:** Building immutable deployment units with **Docker** and managing production workloads with **Kubernetes**.
 * **Infrastructure as Code (IaC):** Provisioning, versioning, and managing multi-cloud resources predictably using **Terraform**.
-* **Observability & Telemetry:** Implementing deep system visibility through distributed tracing, metrics, and log aggregation using **Prometheus** and **Grafana** to guarantee high availability and proactive issue resolution.
+* **Observability & Telemetry:** Engineering deep system visibility, distributed tracing, and proactive monitoring. Experienced in setting up metrics and log aggregation using **Prometheus** and **Grafana**, alongside leveraging **Cloudflare's native observability ecosystem** (Logpush, Workers Analytics, and OpenTelemetry integrations) to trace edge-network performance and ensure zero-downtime resilience.
 
 ---
 
