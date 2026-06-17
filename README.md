@@ -1,7 +1,6 @@
 # 👨‍💻 Ilton Seixas
 
 ## Software Architect • Distributed Systems Engineer
-
 ### Go • Rust • Java • TypeScript • WASM • Cloud & Edge
 
 Focused on distributed systems, edge runtimes, WebAssembly, and high-performance cloud-native architectures.
@@ -20,35 +19,23 @@ My engineering approach is grounded in solid software engineering principles, pr
 
 # 🧠 Engineering & Architecture
 
-Strong experience with:
+Strong experience and consistent application of **Clean Architecture, SOLID, DDD, TDD**, and **Security-First** principles across the entire stack:
 
-* WebAssembly (WASM) and edge runtime architectures
-* distributed systems and microservices
-* event-driven architectures
-* REST and GraphQL APIs
-* cloud-native and edge-first architectures
-* observability, resilience, and fault tolerance
-* domain-driven design
-* test-driven engineering
-* secure-by-design architectures
-
-Consistent application of practices such as Clean Architecture, SOLID, DDD, TDD, and security-first engineering principles across the entire stack.
+* **WebAssembly (WASM):** Designing isolated, secure, and ultra-lightweight modules for edge runtime architectures.
+* **Distributed Systems:** Engineering highly scalable microservices, decoupled event-driven architectures, and high-throughput topologies.
+* **API Design:** Crafting robust, typed, and efficient communication contracts using REST, gRPC, and GraphQL layers.
+* **Resilience Engineering:** Implementing advanced patterns for fault tolerance, circuit breaking, graceful degradation, and secure-by-design architectures.
 
 ---
 
 # ⚡ Systems & Impact
 
-Designed and built systems focused on:
+A continuous focus on long-term maintainability, operational cost efficiency, and sustainable architectural evolution:
 
-* WebAssembly-powered edge applications
-* high-throughput APIs
-* low-latency architectures
-* globally distributed workloads
-* resilient event-driven systems
-* scalable cloud-native services
-* operational reliability and observability
-
-Strong focus on long-term maintainability, operational efficiency, and sustainable architectural evolution.
+* **Edge Applications:** Built and optimized globally distributed workloads powered by WebAssembly and serverless edge runtimes.
+* **High-Throughput Services:** Designed low-latency, scalable APIs capable of handling heavy concurrent traffic with predictable response times.
+* **Reliable Events Pipelines:** Engineered resilient pub/sub structures and event-streaming pipelines with strict consistency and data reliability.
+* **Observability-Driven Operations:** Transformed opaque cloud environments into transparent ecosystems using advanced telemetry and metric analytics.
 
 ---
 
@@ -159,15 +146,15 @@ Strong commitment to continuous learning across software engineering, distribute
 
 # 🌍 Languages
 
-* Portuguese — Native
-* English — Technical and professional proficiency
+* **Portuguese** — Native
+* **English** — Technical and professional proficiency
 
 ---
 
 # 📫 Contact
 
-* 🌐 [https://resume.iltonseixas.com/en](https://resume.iltonseixas.com/en)
-* 💼 [https://linkedin.com/in/iltonseixas](https://linkedin.com/in/iltonseixas)
+* 🌐 [resume.iltonseixas.com/en](https://resume.iltonseixas.com/en)
+* 💼 [linkedin.com/in/iltonseixas](https://linkedin.com/in/iltonseixas)
 * 📧 [contact@iltonseixas.com](mailto:contact@iltonseixas.com)
 
 ---
