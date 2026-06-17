@@ -61,30 +61,47 @@ Strong focus on long-term maintainability, operational efficiency, and sustainab
 </p>
 
 ### Go
-
-Building highly concurrent services, scalable microservices, and systems optimized for operational efficiency.
+Building highly concurrent services, scalable microservices, and network systems optimized for operational efficiency and low overhead.
 
 ### Rust
-
-Developing performance-critical components focused on memory safety, reliability, and low-latency execution.
+Developing performance-critical components and systems engineering focused on compile-time memory safety, strict reliability, and ultra-low latency execution.
 
 ### Java
-
-Designing enterprise-grade backends, distributed systems, event-driven architectures, and high-throughput services with a focus on scalability, maintainability, and long-term reliability.
+Designing enterprise-grade backends, distributed architectures, and event-driven systems with a focus on modularity, robust scalability, and long-term maintainability.
 
 ### TypeScript
-
-Modern backend and full stack development using Node.js, Bun, and edge runtimes for distributed applications and high-performance APIs.
+Modern backend and full-stack development leveraging Node.js, Bun, and edge computing to deliver distributed applications and type-safe, high-performance APIs.
 
 ---
 
-## 🌐 Front-End
+## 🌐 Frameworks & Ecosystem
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=actix,spring,nestjs,remix,tauri" />
+</p>
+
+### High-Performance Web & APIs
+* **Go:** Harnessing **Gin** to build lightweight, lightning-fast, and minimal-overhead REST endpoints.
+* **Rust:** Utilizing **Actix Web** and **Axum** for bulletproof, asynchronous, and memory-efficient web layers.
+* **TypeScript:** Deploying **NestJS** for structured architecture, and **Hono** or **Fastify** for ultra-fast, edge-ready API routing.
+
+### Full-Stack & Desktop Distribution
+* **Remix:** Building server-driven, resilient web user experiences with exceptional server-side rendering (SSR) capabilities.
+* **Tauri:** Engineering lightweight, secure, cross-platform desktop and mobile applications by bridging web frontends with a powerful **Rust** core backend.
+
+---
+
+## 🌐 Front-End & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,angular,astro,nextjs" />
 </p>
 
-Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, streaming, accessibility, and frontend performance optimization.
+### Modern Web User Experiences
+Architecting highly interactive, accessible, and fluid user interfaces using **React** and **Angular** for both enterprise applications and dynamic consumer platforms.
+
+### Rendering Strategies & Performance
+Leveraging **Next.js**, **Remix**, and **Astro** to implement cutting-edge Server-Side Rendering (SSR), Static Site Generation (SSG), and progressive streaming. Focused heavily on minimizing Time to Interactive (TTI), optimizing Core Web Vitals, and maximizing frontend performance.
 
 ---
 
@@ -94,19 +111,33 @@ Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, stre
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,rabbitmq,kafka" />
 </p>
 
-Hands-on experience with PostgreSQL, MySQL, D1, MongoDB, Redis, GraphQL, RabbitMQ and Kafka, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
+### Relational & Non-Relational Databases
+Designing scalable data models, writing optimized queries, and managing data integrity across **PostgreSQL**, **MySQL**, **Cloudflare D1**, and **MongoDB**.
+
+### Caching, Aggregation & Query Layers
+Implementing low-latency caching layers with **Redis** and building flexible, efficient data-fetching layers using **GraphQL** to eliminate over-fetching and under-fetching.
+
+### Message Brokers & Event Streaming
+Orchestrating asynchronous communication, event-driven architectures, and high-throughput data pipelines using **RabbitMQ** and **Apache Kafka** to guarantee decoupled services and strict data reliability.
 
 ---
 
-# ☁️ Cloud & Infrastructure
+## ☁️ Cloud & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,aws,gcp,docker,kubernetes,terraform,prometheus,grafana" />
 </p>
 
-Experience designing globally distributed architectures using Cloudflare Workers, Durable Objects, R2, KV, and D1, alongside infrastructure deployed on AWS, GCP and OCI.
+### Serverless & Edge Computing
+Designing globally distributed, ultra-low-latency architectures leveraging the **Cloudflare** ecosystem. Hands-on expertise implementing serverless compute with **Cloudflare Workers**, managing distributed state via **Durable Objects**, and orchestrating edge storage solutions with **R2**, **KV**, and **D1**.
 
-Strong background in containers, CI/CD pipelines, Infrastructure as Code, observability, and operational efficiency engineering.
+### Multi-Cloud & Enterprise Infrastructure
+Deploying, securing, and scaling cloud-native applications across multi-cloud environments, including **AWS** (Amazon Web Services), **GCP** (Google Cloud Platform), and **OCI** (Oracle Cloud Infrastructure), with a strict focus on high availability and cost-efficiency.
+
+### DevOps, Automation & Observability
+* **Containerization & Orchestration:** Building immutable deployment units with **Docker** and managing production workloads with **Kubernetes**.
+* **Infrastructure as Code (IaC):** Provisioning, versioning, and managing multi-cloud resources predictably using **Terraform**.
+* **Observability & Telemetry:** Implementing deep system visibility through distributed tracing, metrics, and log aggregation using **Prometheus** and **Grafana** to guarantee high availability and proactive issue resolution.
 
 ---
 
