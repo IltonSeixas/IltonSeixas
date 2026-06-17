@@ -91,10 +91,10 @@ Experience with React, Angular, Astro, Remix, and Next.js, focusing on SSR, stre
 ## 🗄️ Data & Performance
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,rabbitmq,kafka" />
 </p>
 
-Hands-on experience with PostgreSQL, MySQL, D1, MongoDB, Redis, RabbitMQ and Kafka, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
+Hands-on experience with PostgreSQL, MySQL, D1, MongoDB, Redis, GraphQL, RabbitMQ and Kafka, focusing on scalable data modeling, caching strategies, query optimization, and latency reduction.
 
 ---
 
